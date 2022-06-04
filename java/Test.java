@@ -7,5 +7,6 @@ public class Test{
         System.out.println("Enter a number");
         int number=s.nextInt();
         System.out.println("You have entered "+number);
+        System.out.println("New Element added");
     }
 }
