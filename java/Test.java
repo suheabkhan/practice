@@ -8,5 +8,6 @@ public class Test{
         int number=s.nextInt();
         System.out.println("You have entered "+number);
         System.out.println("New Element added");
+        System.out.println("version 2");
     }
 }
